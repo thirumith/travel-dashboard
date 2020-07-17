@@ -1,0 +1,18 @@
+[
+  {
+    "firstname": "john",
+    "lastname": "paul",
+    "email": "jopaul@gmail.com",
+    "mobile": "1234567890",
+    "city": "chennai",
+    "travel": "national"
+  },
+  {
+    "firstname": "thomas",
+    "lastname": "Patel",
+    "email": "thomas@outlook.com",
+    "mobile": "9078564321",
+    "city": "Coimbatore",
+    "travel": "international"
+  }
+]
